@@ -1,2 +1,3 @@
 # WeRu-Standing-Desk
 A plywood standing desk developed in Fab Lab Wgtn in two versions, with or without an overarching frame
+In response to the growing concern about health issues related to sitting all day, designers Wendy Neale and Ruben Norris created this elegant standing desk. These desks are now used daily by many enthusiastic people at the College of Creative Arts in Wellington, New Zealand. Mahdi Mozafari, the Fab Lab Intern over the summer of 2013/14, parametricised the design using grasshopper so that people of all heights can have their own ergonomically customisable WeRu desk. We are currently working on a range of accessories to go with the desk.
